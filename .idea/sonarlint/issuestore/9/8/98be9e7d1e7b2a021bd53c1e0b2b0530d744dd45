@@ -1,0 +1,5 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8ôúë÷1J$b2214498-98bd-4e27-ad7e-efada76b57ac
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š‘¨µúÿÿÿÿ8Íêùë÷1J$91c5250f-4356-4a26-8f7f-bdc32db92c8f
+š
+java:S3008"WRename this field "TOTAL_DINERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å§Ñó8¨úë÷1J$e37646d3-80b5-4f93-bc1e-02624bef7a6d
